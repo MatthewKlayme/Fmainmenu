@@ -1,0 +1,1319 @@
+﻿Log file open, 12/01/21 20:02:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: mainmenu
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.390446
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17155196
+LogInit: Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 1500X Quad-Core Processor          , GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Aug 13 2021 06:13:13
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Engine.ini]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Engine.ini]
+[2021.12.02-02.02.57:343][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Engine.ini]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Engine.ini]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.12.02-02.02.57:343][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Engine.ini]
+[2021.12.02-02.02.57:343][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Engine.ini]
+[2021.12.02-02.02.57:397][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.02-02.02.57:397][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.02-02.02.57:398][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.02-02.02.57:399][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.02-02.02.57:399][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.12.02-02.02.57:399][  0]LogHAL: Display: Platform has ~ 32 GB [34286985216 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.12.02-02.02.57:399][  0]LogInit: Going up to parent DeviceProfile []
+[2021.12.02-02.02.57:399][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.12.02-02.02.57:399][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.12.02-02.02.57:400][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-02.02.57:400][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.12.02-02.02.57:401][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.12.02-02.02.57:401][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Scalability.ini]
+[2021.12.02-02.02.57:401][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.12.02-02.02.57:401][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.12.02-02.02.57:401][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.12.02-02.02.57:401][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.12.02-02.02.57:402][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.12.02-02.02.57:402][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.12.02-02.02.57:402][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.12.02-02.02.57:402][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Engine.ini]
+[2021.12.02-02.02.57:402][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Config/Windows/Editor.ini]
+[2021.12.02-02.02.57:402][  0]LogInit: Computer: DESKTOP-I8U9JVR
+[2021.12.02-02.02.57:402][  0]LogInit: User: matth
+[2021.12.02-02.02.57:402][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.12.02-02.02.57:402][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.12.02-02.02.57:402][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.12.02-02.02.57:402][  0]LogMemory: Platform Memory Stats for Windows
+[2021.12.02-02.02.57:402][  0]LogMemory: Process Physical Memory: 140.26 MB used, 140.26 MB peak
+[2021.12.02-02.02.57:402][  0]LogMemory: Process Virtual Memory: 110.40 MB used, 110.40 MB peak
+[2021.12.02-02.02.57:402][  0]LogMemory: Physical Memory: 7649.59 MB used,  25049.03 MB free, 32698.62 MB total
+[2021.12.02-02.02.57:402][  0]LogMemory: Virtual Memory: 134191720.00 MB used,  26010.72 MB free, 134217728.00 MB total
+[2021.12.02-02.02.57:412][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.12.02-02.02.57:466][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.12.02-02.02.57:467][  0]LogInit: Using OS detected language (en-US).
+[2021.12.02-02.02.57:467][  0]LogInit: Using OS detected locale (en-US).
+[2021.12.02-02.02.57:477][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.12.02-02.02.57:727][  0]LogInit: Setting process to per monitor DPI aware
+[2021.12.02-02.02.57:743][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.12.02-02.02.57:766][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.12.02-02.02.57:766][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.12.02-02.02.57:974][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.12.02-02.02.57:979][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.02-02.02.57:979][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.12.02-02.02.57:979][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.12.02-02.02.57:979][  0]LogD3D11RHI: D3D11 adapters:
+[2021.12.02-02.02.58:132][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2021.12.02-02.02.58:133][  0]LogD3D11RHI:       8088/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.12.02-02.02.58:137][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.12.02-02.02.58:137][  0]LogD3D11RHI:       0/0/16349 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.12.02-02.02.58:137][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.12.02-02.02.58:147][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.12.02-02.02.58:147][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2021.12.02-02.02.58:147][  0]LogWindows: EnumDisplayDevices:
+[2021.12.02-02.02.58:147][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2021.12.02-02.02.58:148][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2021.12.02-02.02.58:148][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.12.02-02.02.58:149][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.12.02-02.02.58:149][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.12.02-02.02.58:149][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2021.12.02-02.02.58:149][  0]LogD3D11RHI:   Driver Version: 472.12 (internal:30.0.14.7212, unified:472.12)
+[2021.12.02-02.02.58:149][  0]LogD3D11RHI:      Driver Date: 9-13-2021
+[2021.12.02-02.02.58:149][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2021.12.02-02.02.58:263][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.12.02-02.02.58:263][  0]LogD3D11RHI: Async texture creation enabled
+[2021.12.02-02.02.58:263][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.12.02-02.02.58:298][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.12.02-02.02.58:345][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.12.02-02.02.58:806][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.12.02-02.02.58:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.12.02-02.02.58:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.12.02-02.02.58:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.12.02-02.02.58:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.12.02-02.02.58:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.12.02-02.02.58:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.12.02-02.02.58:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.12.02-02.02.58:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.12.02-02.02.58:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.12.02-02.02.58:840][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.12.02-02.02.58:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.12.02-02.02.58:870][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.12.02-02.02.58:887][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.12.02-02.02.58:893][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.12.02-02.02.58:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.12.02-02.02.58:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.12.02-02.02.58:923][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.12.02-02.02.58:930][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.12.02-02.02.58:936][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.12.02-02.02.58:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.12.02-02.02.58:981][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.12.02-02.02.58:995][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.12.02-02.02.59:001][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.12.02-02.02.59:010][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.12.02-02.02.59:017][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.12.02-02.02.59:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.12.02-02.02.59:034][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.12.02-02.02.59:049][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.12.02-02.02.59:056][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.12.02-02.02.59:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.12.02-02.02.59:070][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.12.02-02.02.59:070][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.12.02-02.02.59:081][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.12.02-02.02.59:127][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.12.02-02.02.59:171][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.12.02-02.02.59:171][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/matth/Documents/Unreal Projects/mainmenu/Intermediate/Shaders/WorkingDirectory/21424/).
+[2021.12.02-02.02.59:171][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/matth/AppData/Local/Temp/UnrealShaderWorkingDir/A99A9855416C08CBA7862380BE338992/'.
+[2021.12.02-02.02.59:171][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.12.02-02.02.59:171][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.12.02-02.02.59:171][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.12.02-02.03.00:181][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.12.02-02.03.00:273][  0]LogDerivedDataCache: Loaded boot cache 0.09s 113MB C:/Users/matth/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.12.02-02.03.00:273][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/matth/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.12.02-02.03.00:274][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/matth/Documents/Unreal Projects/mainmenu/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.12.02-02.03.00:274][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.12.02-02.03.00:274][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/matth/Documents/Unreal Projects/mainmenu/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.02-02.03.00:274][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.12.02-02.03.00:298][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.12.02-02.03.00:298][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.12.02-02.03.00:298][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.12.02-02.03.00:312][  0]LogDerivedDataCache: Speed tests for C:/Users/matth/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.12.02-02.03.00:312][  0]LogDerivedDataCache: Display: Performance to C:/Users/matth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=191.13MBs, RandomWriteSpeed=104.28MBs. Assigned SpeedClass 'Local'
+[2021.12.02-02.03.00:313][  0]LogDerivedDataCache: Using Local data cache path C:/Users/matth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.12.02-02.03.00:313][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.12.02-02.03.00:314][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.12.02-02.03.00:385][  0]LogSlate: Using FreeType 2.10.0
+[2021.12.02-02.03.00:385][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.12.02-02.03.00:419][  0]LogAssetRegistry: FAssetRegistry took 0.0046 seconds to start up
+[2021.12.02-02.03.00:936][  0]LogInit: Selected Device Profile: [Windows]
+[2021.12.02-02.03.00:936][  0]LogInit: Active device profile: [0000013DBD1D3600][0000013DBC3A1400 49] Windows
+[2021.12.02-02.03.00:936][  0]LogInit: Profiles: [0000013DBD1D3600][0000013DBC3A1400 49] Windows, [0000013DBD18CB00][0000013DBC3A9580 49] WindowsNoEditor, [0000013DBD1D0B00][0000013DBC3AD700 49] WindowsServer, [0000013DBD18EB00][0000013DBC3B1880 49] WindowsClient, [0000013DBD1D2A00][0000013DBC3B5A00 49] IOS, [0000013DBD18F100][0000013DBC3B9B80 49] iPadAir, [0000013DBD1D3000][0000013DBC3BC180 49] iPadAir2, [0000013DBD143500][0000013DBD4E4440 49] IPadPro, [0000013DBD143600][0000013DBD4E0480 49] iPadAir3, [0000013DBD1D0F00][0000013DBD4E8600 49] iPadAir4, [0000013DBD141000][0000013DBD4EC780 49] iPadMini2, [0000013DBD1D3900][0000013DBD4F0900 49] iPadMini3, [0000013DBD140600][0000013DBD4F4A80 49] iPadMini4, [0000013DBD1D0A00][0000013DBC3A4BC0 49] iPadMini5, [0000013DBD17E600][0000013DBD4FCE00 49] iPhone6, [0000013DBD17E700][0000013DBD4F8E40 49] iPodTouch6, [0000013DBD141400][0000013DBD5090C0 49] iPhone7, [0000013DBD141700][0000013DBD501100 49] iPodTouch7, [0000013DBD17CF00][0000013DBD50D280 49] iPhone5S, [0000013DBD143A00][0000013DBD511400 49] iPhone6Plus, [0000013DBD17C600][0000013DBD515580 49] iPhone6S, [0000013DBD142800][0000013DBD519700 49] iPhone6SPlus, [0000013DBD17D400][0000013DBD51D880 49] iPhone7Plus, [0000013DBD140C00][0000013DBD521A00 49] iPhoneSE, [0000013DBD17E200][0000013DBD525B80 49] iPhone8, [0000013DBD142A00][0000013DBD528180 49] iPhone8Plus, [0000013DBD17EA00][0000013DBD52C300 49] iPhoneX, [0000013DBD142300][0000013DBD530480 49] iPhoneXS, [0000013DBD17D700][0000013DBD534600 49] iPhoneXSMax, [0000013DBD142000][0000013DBD538780 49] iPhoneXR, [0000013DBD17F000][0000013DBD53C900 49] iPhone11, [0000013DBD143C00][0000013DBD540A80 49] iPhone11Pro, [0000013DBD17FA00][0000013DBD544C00 49] iPhone11ProMax, [0000013DBD142900][0000013DBD504D40 49] iPhoneSE2, [0000013DBD17F800][0000013DBD548E80 49] iPhone12Mini, [0000013DBD143100][0000013DBD54CFC0 49] iPhone12, [0000013DBD17D600][0000013DBD551100 49] iPhone12Pro, [0000013DBD141600][0000013DBD559280 49] iPhone12ProMax, [0000013DBD17E400][0000013DBD55D400 49] iPadPro105, [0000013DBD142F00][0000013DBD561580 49] iPadPro129, [0000013DBD17CD00][0000013DBD565700 49] iPadPro97, [0000013DBD140400][0000013DBD569880 49] iPadPro2_129, [0000013DBD17D900][0000013DBD56DA00 49] iPad5, [0000013DBD140B00][0000013DBD571B80 49] iPad6, [0000013DBD17F200][0000013DBD574180 49] iPad7, [0000013DBD141B00][0000013DBD578300 49] iPad8, [0000013DBD17E900][0000013DBD57C480 49] iPadPro11, [0000013DBD141900][0000013DBD580600 49] iPadPro2_11, [0000013DBD17CE00][0000013DBD584780 49] iPadPro3_129, [0000013DBD143D00][0000013DBD588900 49] iPadPro4_129, [0000013DBD17DB00][0000013DBD58CA80 49] AppleTV, [0000013DBD140800][0000013DBD590C00 49] AppleTV4K, [0000013DBD18D000][0000013DBD594D80 49] TVOS, [0000013DBD211100][0000013DBD598F00 49] Mac, [0000013DBD18D400][0000013DBD555040 49] MacClient, [0000013DBD211000][0000013DBD59D180 49] MacNoEditor, [0000013DBD18EA00][0000013DBD5A12C0 49] MacServer, [0000013DBD210600][0000013DBD5A9440 49] Linux, [0000013DBD18F500][0000013DBD5AD5C0 49] LinuxAArch64, [0000013DBD210700][0000013DBD5B1740 49] LinuxNoEditor, [0000013DBD18E300][0000013DBD5B58C0 49] LinuxAArch64NoEditor, [0000013DBD210900][0000013DBD5B9A40 49] LinuxClient, [0000013DBD18EC00][0000013DBD5BDBC0 49] LinuxAArch64Client, [0000013DBD211600][0000013DBD5C01C0 49] LinuxServer, [0000013DBD18F600][0000013DBD5C4340 49] LinuxAArch64Server, [0000013DBD212D00][0000013DBD5C84C0 49] Android, [0000013DBD18D800][0000013DBD5CC640 49] Android_Low, [0000013DBD211400][0000013DBD5D07C0 49] Android_Mid, [0000013DBD18E000][0000013DBD5D4940 49] Android_High, [0000013DBD211B00][0000013DBD5D8AC0 49] Android_Default, [0000013DBD18C600][0000013DBD5DCC40 49] Android_Adreno4xx, [0000013DBD212B00][0000013DBD5E0DC0 49] Android_Adreno5xx_Low, [0000013DBD18E400][0000013DBD5E4F40 49] Android_Adreno5xx, [0000013DBD211700][0000013DBD5E90C0 49] Android_Adreno6xx, [0000013DBD18D900][0000013DBD5A5200 49] Android_Adreno6xx_Vulkan, [0000013DBD211300][0000013DBD5ED340 49] Android_Mali_T6xx, [0000013DBD140F00][0000013DBD5F1480 49] Android_Mali_T7xx, [0000013DBD210400][0000013DBD5F55C0 49] Android_Mali_T8xx, [0000013DBD143F00][0000013DBD5FD740 49] Android_Mali_G71, [0000013DBD212000][0000013DBD6018C0 49] Android_Mali_G72, [0000013DBD140200][0000013DBD605A40 49] Android_Mali_G72_Vulkan, [0000013DBD212100][0000013DBD609BC0 49] Android_Mali_G76, [0000013DBD143B00][0000013DBD60C1C0 49] Android_Mali_G76_Vulkan, [0000013DBD212800][0000013DBD610340 49] Android_Mali_G77, [0000013DBD142200][0000013DBD6144C0 49] Android_Mali_G77_Vulkan, [0000013DBD211A00][0000013DBD618640 49] Android_Mali_G78, [0000013DBD140A00][0000013DBD61C7C0 49] Android_Mali_G78_Vulkan, [0000013DBD212400][0000013DBD620940 49] Android_Mali_G710, [0000013DBD140D00][0000013DBD624AC0 49] Android_Mali_G710_Vulkan, [0000013DBD211900][0000013DBD628C40 49] Android_Vulkan_SM5, [0000013DBD143900][0000013DBD62CDC0 49] Android_PowerVR_G6xxx, [0000013DBD211F00][0000013DBD630F40 49] Android_PowerVR_GT7xxx, [0000013DBD141E00][0000013DBD6350C0 49] Android_PowerVR_GE8xxx, [0000013DBD210B00][0000013DBD639240 49] Android_PowerVR_GM9xxx, [0000013DBD141C00][0000013DBD5F9380 49] Android_PowerVR_GM9xxx_Vulkan, [0000013DBD210500][0000013DBD63D4C0 49] Android_TegraK1, [0000013DBD143700][0000013DBD641600 49] Android_Unknown_Vulkan, [0000013DBD211D00][0000013DBD645740 49] Lumin, [0000013DBD143400][0000013DBD64D8C0 49] Lumin_Desktop, [0000013DBD17FC00][0000013DBD651A40 49] HoloLens, 
+[2021.12.02-02.03.01:194][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.12.02-02.03.01:194][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.12.02-02.03.01:194][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.12.02-02.03.01:194][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.12.02-02.03.01:194][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.12.02-02.03.01:247][  0]LogNetVersion: mainmenu 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1830820722)
+[2021.12.02-02.03.02:148][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.12.02-02.03.02:272][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.12.02-02.03.02:284][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2021.12.02-02.03.02:284][  0]LogUObjectAllocator: 4301856 out of 0 bytes used by permanent object pool.
+[2021.12.02-02.03.02:284][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.12.02-02.03.02:868][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 1E53C73044A4F6F0B84F12ADBE0F2AEB | Instance: FA42DE834BD312454A42409112B3E422 (DESKTOP-I8U9JVR-21424).
+[2021.12.02-02.03.02:899][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.12.02-02.03.02:899][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.12.02-02.03.02:901][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.02-02.03.02:901][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.02-02.03.02:901][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.12.02-02.03.02:901][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.12.02-02.03.02:901][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.12.02-02.03.02:901][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.12.02-02.03.02:901][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.12.02-02.03.02:901][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.12.02-02.03.03:107][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.12.02-02.03.03:108][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.12.02-02.03.03:108][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.12.02-02.03.03:108][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.12.02-02.03.03:108][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.12.02-02.03.03:108][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.12.02-02.03.03:108][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.12.02-02.03.03:108][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.12.02-02.03.03:108][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.12.02-02.03.03:142][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.12.02-02.03.03:174][  0]LogPython: Using Python 3.7.7
+[2021.12.02-02.03.04:717][  0]SourceControl: Source control is disabled
+[2021.12.02-02.03.04:718][  0]SourceControl: Source control is disabled
+[2021.12.02-02.03.04:723][  0]SourceControl: Source control is disabled
+[2021.12.02-02.03.04:729][  0]SourceControl: Source control is disabled
+[2021.12.02-02.03.04:746][  0]SourceControl: Source control is disabled
+[2021.12.02-02.03.04:751][  0]LogUProjectInfo: Found projects:
+[2021.12.02-02.03.05:246][  0]LogOpenImageDenoise: OIDN starting up
+[2021.12.02-02.03.05:273][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.12.02-02.03.05:309][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.02-02.03.05:310][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.12.02-02.03.05:590][  0]LogCollectionManager: Loaded 0 collections in 0.003361 seconds
+[2021.12.02-02.03.05:649][  0]LogFileCache: Scanning file cache for directory 'C:/Users/matth/Documents/Unreal Projects/mainmenu/Saved/Collections/' took 0.00s
+[2021.12.02-02.03.05:649][  0]LogFileCache: Scanning file cache for directory 'C:/Users/matth/Documents/Unreal Projects/mainmenu/Content/Developers/matth/Collections/' took 0.00s
+[2021.12.02-02.03.05:649][  0]LogFileCache: Scanning file cache for directory 'C:/Users/matth/Documents/Unreal Projects/mainmenu/Content/Collections/' took 0.00s
+[2021.12.02-02.03.05:649][  0]LogOcInput: OculusInput pre-init called
+[2021.12.02-02.03.06:231][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.12.02-02.03.06:231][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.12.02-02.03.06:231][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.12.02-02.03.06:231][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.12.02-02.03.06:231][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.12.02-02.03.06:231][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.12.02-02.03.06:231][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.12.02-02.03.06:231][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.12.02-02.03.06:231][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.12.02-02.03.06:231][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.12.02-02.03.06:232][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.12.02-02.03.06:232][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.12.02-02.03.06:232][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.12.02-02.03.06:232][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.12.02-02.03.06:232][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.12.02-02.03.06:232][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.12.02-02.03.06:232][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.02-02.03.06:232][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.02-02.03.06:232][  0]LogEngine: Initializing Engine...
+[2021.12.02-02.03.06:237][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.12.02-02.03.06:237][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.12.02-02.03.06:237][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.12.02-02.03.06:239][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.12.02-02.03.06:531][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.12.02-02.03.06:546][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.12.02-02.03.06:565][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.12.02-02.03.06:572][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.12.02-02.03.06:573][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.12.02-02.03.06:574][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.12.02-02.03.06:574][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.12.02-02.03.06:574][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.02-02.03.06:574][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.02-02.03.06:574][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.02-02.03.06:574][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.02-02.03.06:574][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.02-02.03.06:574][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.02-02.03.06:574][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.02-02.03.06:574][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.02-02.03.06:575][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.02-02.03.06:575][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.02-02.03.06:575][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.02-02.03.06:575][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.02-02.03.06:601][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.02-02.03.06:601][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.12.02-02.03.06:647][  0]LogAudioMixer: Display: Using Audio Device Speakers (4- Logitech G933 Gaming Wireless Headset)
+[2021.12.02-02.03.06:648][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.02-02.03.06:652][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.02-02.03.06:653][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.02-02.03.06:654][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.02-02.03.06:654][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.02-02.03.06:654][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.02-02.03.06:661][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.02-02.03.06:661][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.02-02.03.06:661][  0]LogInit: FAudioDevice initialized.
+[2021.12.02-02.03.06:662][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.12.02-02.03.06:662][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.12.02-02.03.06:790][  0]LogDerivedDataCache: Saved boot cache 0.13s 113MB C:/Users/matth/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.12.02-02.03.06:796][  0]LogInit: Texture streaming: Enabled
+[2021.12.02-02.03.06:819][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.0-17155196+++UE4+Release-4.27
+[2021.12.02-02.03.06:826][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.12.02-02.03.06:826][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.12.02-02.03.06:831][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.12.02-02.03.06:865][  0]LogInit: Transaction tracking system initialized
+[2021.12.02-02.03.06:911][  0]BlueprintLog: New page: Editor Load
+[2021.12.02-02.03.07:070][  0]LocalizationService: Localization service is disabled
+[2021.12.02-02.03.07:117][  0]TimingProfiler: Initialize
+[2021.12.02-02.03.07:117][  0]TimingProfiler: OnSessionChanged
+[2021.12.02-02.03.07:118][  0]LoadingProfiler: Initialize
+[2021.12.02-02.03.07:119][  0]LoadingProfiler: OnSessionChanged
+[2021.12.02-02.03.07:119][  0]NetworkingProfiler: Initialize
+[2021.12.02-02.03.07:120][  0]NetworkingProfiler: OnSessionChanged
+[2021.12.02-02.03.07:120][  0]MemoryProfiler: Initialize
+[2021.12.02-02.03.07:120][  0]MemoryProfiler: OnSessionChanged
+[2021.12.02-02.03.07:500][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.12.02-02.03.07:500][  0]LogCook: Display: Mobile HDR setting 1
+[2021.12.02-02.03.07:588][  0]LogFileCache: Scanning file cache for directory 'C:/Users/matth/Documents/Unreal Projects/mainmenu/Content/' took 0.00s
+[2021.12.02-02.03.08:086][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png' error.
+[2021.12.02-02.03.08:086][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/MenuSeparator.png
+[2021.12.02-02.03.08:086][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png' error.
+[2021.12.02-02.03.08:086][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selector.png
+[2021.12.02-02.03.08:086][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png' error.
+[2021.12.02-02.03.08:086][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/Selection.png
+[2021.12.02-02.03.08:086][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png' error.
+[2021.12.02-02.03.08:086][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Above.png
+[2021.12.02-02.03.08:086][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png' error.
+[2021.12.02-02.03.08:086][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Onto.png
+[2021.12.02-02.03.08:086][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png' error.
+[2021.12.02-02.03.08:086][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/DropZoneIndicator_Below.png
+[2021.12.02-02.03.08:086][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png' error.
+[2021.12.02-02.03.08:086][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/RoundedSelection_16x.png
+[2021.12.02-02.03.08:086][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png' error.
+[2021.12.02-02.03.08:087][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Niagara/Common/FlatButton.png
+[2021.12.02-02.03.08:087][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.02-02.03.08:087][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.12.02-02.03.08:087][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.12.02-02.03.08:094][  0]SourceControl: Source control is disabled
+[2021.12.02-02.03.08:094][  0]LogUnrealEdMisc: Loading editor; pre map load, took 12.981
+[2021.12.02-02.03.08:094][  0]Cmd: MAP LOAD FILE="../../../../../../Users/matth/Documents/Unreal Projects/mainmenu/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.02-02.03.08:095][  0]LightingResults: New page: Lighting Build
+[2021.12.02-02.03.08:097][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-02.03.08:097][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-02.03.08:098][  0]MapCheck: New page: Map Check
+[2021.12.02-02.03.08:098][  0]LightingResults: New page: Lighting Build
+[2021.12.02-02.03.08:105][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.02-02.03.08:109][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.12.02-02.03.08:448][  0]LogMaterial: Display: Missing cached shadermap for RampMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 0246992DF99811697812838DEA9CCDB03B527C16), compiling. 
+[2021.12.02-02.03.08:553][  0]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.12.02-02.03.08:603][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2021.12.02-02.03.08:603][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2021.12.02-02.03.08:603][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2021.12.02-02.03.08:603][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.12.02-02.03.08:603][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 1
+[2021.12.02-02.03.08:603][  0]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2021.12.02-02.03.08:611][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.12.02-02.03.08:614][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.12.02-02.03.08:636][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.02-02.03.08:685][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.12.02-02.03.08:685][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.02-02.03.08:686][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.36ms to complete.
+[2021.12.02-02.03.08:686][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.591
+[2021.12.02-02.03.08:689][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.576
+[2021.12.02-02.03.08:855][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-02.03.08:866][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-02.03.08:876][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-02.03.08:888][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-02.03.08:914][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0187 seconds. Added 3822 classes and 928 folders.
+[2021.12.02-02.03.08:918][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.12.02-02.03.08:920][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.02-02.03.08:920][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:921][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.02-02.03.08:921][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:921][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.12.02-02.03.08:921][  0]LogPakFile: OnPakFileMounted2Time == 0.000100
+[2021.12.02-02.03.08:922][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.02-02.03.08:922][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:922][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.02-02.03.08:922][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:922][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.12.02-02.03.08:922][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2021.12.02-02.03.08:924][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.12.02-02.03.08:924][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:924][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.12.02-02.03.08:924][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:924][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.12.02-02.03.08:924][  0]LogPakFile: OnPakFileMounted2Time == 0.000125
+[2021.12.02-02.03.08:925][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.02-02.03.08:925][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:925][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.02-02.03.08:925][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:925][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.12.02-02.03.08:925][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2021.12.02-02.03.08:927][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.02-02.03.08:927][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:927][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.02-02.03.08:927][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:927][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.12.02-02.03.08:927][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.12.02-02.03.08:928][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.02-02.03.08:928][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:928][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.02-02.03.08:928][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:928][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.12.02-02.03.08:928][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.12.02-02.03.08:929][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.02-02.03.08:929][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:929][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.02-02.03.08:929][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:929][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.12.02-02.03.08:929][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2021.12.02-02.03.08:930][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.02-02.03.08:930][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:930][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.02-02.03.08:930][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:931][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.12.02-02.03.08:931][  0]LogPakFile: OnPakFileMounted2Time == 0.000151
+[2021.12.02-02.03.08:932][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.02-02.03.08:932][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:932][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.02-02.03.08:932][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:932][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.12.02-02.03.08:932][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2021.12.02-02.03.08:933][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.12.02-02.03.08:934][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:934][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.12.02-02.03.08:934][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:934][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.12.02-02.03.08:934][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2021.12.02-02.03.08:935][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.12.02-02.03.08:935][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:935][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.12.02-02.03.08:935][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:935][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.12.02-02.03.08:935][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.12.02-02.03.08:936][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.02-02.03.08:936][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:936][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.02-02.03.08:936][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:936][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.12.02-02.03.08:936][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2021.12.02-02.03.08:938][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.02-02.03.08:938][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:938][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.02-02.03.08:938][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:938][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.12.02-02.03.08:938][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.12.02-02.03.08:939][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.02-02.03.08:939][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:939][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.02-02.03.08:939][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:939][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.12.02-02.03.08:939][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.12.02-02.03.08:941][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.12.02-02.03.08:941][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:941][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.12.02-02.03.08:941][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:941][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.12.02-02.03.08:941][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2021.12.02-02.03.08:942][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.02-02.03.08:942][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:943][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.02-02.03.08:943][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:943][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.12.02-02.03.08:943][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2021.12.02-02.03.08:944][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.12.02-02.03.08:944][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:944][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.12.02-02.03.08:945][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:945][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.12.02-02.03.08:945][  0]LogPakFile: OnPakFileMounted2Time == 0.000119
+[2021.12.02-02.03.08:947][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.02-02.03.08:948][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:948][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.02-02.03.08:948][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:948][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.12.02-02.03.08:948][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2021.12.02-02.03.08:949][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.02-02.03.08:949][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:949][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.02-02.03.08:949][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:949][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.12.02-02.03.08:949][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2021.12.02-02.03.08:950][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.02-02.03.08:950][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:951][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.02-02.03.08:951][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:951][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.12.02-02.03.08:951][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.12.02-02.03.08:952][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.12.02-02.03.08:952][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:952][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.12.02-02.03.08:952][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:952][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.12.02-02.03.08:952][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2021.12.02-02.03.08:954][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.12.02-02.03.08:954][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:954][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.12.02-02.03.08:954][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:954][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.12.02-02.03.08:954][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2021.12.02-02.03.08:956][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.12.02-02.03.08:956][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:956][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.12.02-02.03.08:956][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:956][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.12.02-02.03.08:956][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.12.02-02.03.08:957][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.12.02-02.03.08:957][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:957][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.12.02-02.03.08:957][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:957][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.12.02-02.03.08:957][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.12.02-02.03.08:958][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.12.02-02.03.08:958][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:958][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.12.02-02.03.08:958][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:958][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.12.02-02.03.08:958][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2021.12.02-02.03.08:959][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.12.02-02.03.08:959][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.12.02-02.03.08:959][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.12.02-02.03.08:960][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.12.02-02.03.08:960][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.12.02-02.03.08:960][  0]LogPakFile: OnPakFileMounted2Time == 0.000174
+[2021.12.02-02.03.09:070][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.12.02-02.03.09:072][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 0 folders.
+[2021.12.02-02.03.09:113][  0]LogSlate: Took 0.000354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.12.02-02.03.09:115][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.12.02-02.03.09:117][  0]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.12.02-02.03.09:304][  0]LogRenderer: Reallocating scene render targets to support 1244x664 Format 10 NumSamples 1 (Frame:1).
+[2021.12.02-02.03.10:859][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.12.02-02.03.10:859][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.12.02-02.03.10:859][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.12.02-02.03.10:859][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.12.02-02.03.10:859][  0]LogLoad: (Engine Initialization) Total time: 15.75 seconds
+[2021.12.02-02.03.10:859][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.12.02-02.03.10:934][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.12.02-02.03.11:068][  2]LogSlate: Took 0.000328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.02-02.03.11:119][  4]LogAssetRegistry: Asset discovery search completed in 10.7015 seconds
+[2021.12.02-02.03.11:132][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2021.12.02-02.06.51:837][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.12.02-02.06.51:844][354]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.12.02-02.06.51:875][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\PlanetAnimations\LandscapeMaterial\MF_Grass.uasset: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:876][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\PlanetAnimations\LandscapeMaterial\MF_Grass.uasset: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:876][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\PlanetAnimations\LandscapeMaterial\MF_Grass.uasset: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:878][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\PlanetAnimations\LandscapeMaterial\M_Landscape.uasset: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:878][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\PlanetAnimations\LandscapeMaterial\M_Landscape.uasset: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:913][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:914][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:915][354]LogLinker: Warning: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:915][354]LogLinker: Warning: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:926][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\PlanetAnimations\LandscapeMaterial\M_Landscape.uasset: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:926][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by M_Landscape
+[2021.12.02-02.06.51:971][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\PlanetAnimations\LandscapeMaterial\MF_Grass.uasset: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:971][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by MaterialExpressionTextureSample_0
+[2021.12.02-02.06.51:972][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\PlanetAnimations\LandscapeMaterial\MF_Grass.uasset: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:972][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by MaterialExpressionTextureSample_1
+[2021.12.02-02.06.51:972][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\PlanetAnimations\LandscapeMaterial\MF_Grass.uasset: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:972][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by MaterialExpressionTextureSample_12
+[2021.12.02-02.06.51:972][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\PlanetAnimations\LandscapeMaterial\MF_Grass.uasset: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:972][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by MaterialExpressionTextureSample_13
+[2021.12.02-02.06.51:973][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\PlanetAnimations\LandscapeMaterial\MF_Grass.uasset: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:973][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by MaterialExpressionTextureSample_14
+[2021.12.02-02.06.51:973][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\PlanetAnimations\LandscapeMaterial\MF_Grass.uasset: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:973][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by MaterialExpressionTextureSample_15
+[2021.12.02-02.06.51:973][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\PlanetAnimations\LandscapeMaterial\MF_Grass.uasset: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:973][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by MaterialExpressionTextureSample_2
+[2021.12.02-02.06.51:974][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\PlanetAnimations\LandscapeMaterial\MF_Grass.uasset: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:974][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by MaterialExpressionTextureSample_3
+[2021.12.02-02.06.51:974][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\PlanetAnimations\LandscapeMaterial\MF_Grass.uasset: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:974][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by MaterialExpressionTextureSample_4
+[2021.12.02-02.06.51:975][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\PlanetAnimations\LandscapeMaterial\MF_Grass.uasset: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:975][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by MaterialExpressionTextureSample_5
+[2021.12.02-02.06.51:975][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\PlanetAnimations\LandscapeMaterial\MF_Grass.uasset: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:975][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by MaterialExpressionTextureSample_6
+[2021.12.02-02.06.51:975][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\PlanetAnimations\LandscapeMaterial\MF_Grass.uasset: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:975][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by MaterialExpressionTextureSample_8
+[2021.12.02-02.06.51:990][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:990][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_262
+[2021.12.02-02.06.51:990][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:990][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_263
+[2021.12.02-02.06.51:991][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:991][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_264
+[2021.12.02-02.06.51:991][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:991][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_265
+[2021.12.02-02.06.51:992][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:992][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_266
+[2021.12.02-02.06.51:992][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:992][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_267
+[2021.12.02-02.06.51:993][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:993][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_268
+[2021.12.02-02.06.51:993][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:993][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_269
+[2021.12.02-02.06.51:994][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:994][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_270
+[2021.12.02-02.06.51:994][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:994][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_271
+[2021.12.02-02.06.51:994][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:994][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_272
+[2021.12.02-02.06.51:995][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:995][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_273
+[2021.12.02-02.06.51:995][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:995][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_274
+[2021.12.02-02.06.51:996][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:996][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_275
+[2021.12.02-02.06.51:996][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:996][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_276
+[2021.12.02-02.06.51:997][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:997][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_277
+[2021.12.02-02.06.51:997][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:997][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_278
+[2021.12.02-02.06.51:997][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:998][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_279
+[2021.12.02-02.06.51:998][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:998][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_280
+[2021.12.02-02.06.51:998][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:998][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_281
+[2021.12.02-02.06.51:999][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:999][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_282
+[2021.12.02-02.06.51:999][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.51:999][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_285
+[2021.12.02-02.06.52:000][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:000][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_286
+[2021.12.02-02.06.52:000][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:000][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_287
+[2021.12.02-02.06.52:001][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:001][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_288
+[2021.12.02-02.06.52:001][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:001][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_289
+[2021.12.02-02.06.52:001][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:002][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_290
+[2021.12.02-02.06.52:002][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:002][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_291
+[2021.12.02-02.06.52:002][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:002][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_292
+[2021.12.02-02.06.52:003][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:003][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_293
+[2021.12.02-02.06.52:003][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:003][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_294
+[2021.12.02-02.06.52:004][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:004][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_295
+[2021.12.02-02.06.52:004][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:004][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_296
+[2021.12.02-02.06.52:005][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:005][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_297
+[2021.12.02-02.06.52:005][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:005][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_298
+[2021.12.02-02.06.52:005][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:005][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_299
+[2021.12.02-02.06.52:006][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:006][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_300
+[2021.12.02-02.06.52:006][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:006][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_301
+[2021.12.02-02.06.52:007][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:007][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_302
+[2021.12.02-02.06.52:007][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:007][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_303
+[2021.12.02-02.06.52:008][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:008][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_304
+[2021.12.02-02.06.52:008][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:008][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_305
+[2021.12.02-02.06.52:009][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:009][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_306
+[2021.12.02-02.06.52:009][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:009][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_307
+[2021.12.02-02.06.52:009][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:009][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_308
+[2021.12.02-02.06.52:010][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:010][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_309
+[2021.12.02-02.06.52:010][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:010][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_310
+[2021.12.02-02.06.52:011][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:011][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_311
+[2021.12.02-02.06.52:011][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:011][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_312
+[2021.12.02-02.06.52:012][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:012][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_313
+[2021.12.02-02.06.52:012][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:012][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_314
+[2021.12.02-02.06.52:012][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:013][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_315
+[2021.12.02-02.06.52:013][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:013][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_316
+[2021.12.02-02.06.52:013][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:013][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_317
+[2021.12.02-02.06.52:014][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:014][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_318
+[2021.12.02-02.06.52:014][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:014][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_319
+[2021.12.02-02.06.52:015][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:015][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_320
+[2021.12.02-02.06.52:015][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:015][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_321
+[2021.12.02-02.06.52:016][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:016][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_322
+[2021.12.02-02.06.52:016][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:016][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_323
+[2021.12.02-02.06.52:016][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:016][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_324
+[2021.12.02-02.06.52:017][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:017][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_325
+[2021.12.02-02.06.52:017][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:017][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_326
+[2021.12.02-02.06.52:018][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:018][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_327
+[2021.12.02-02.06.52:018][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:018][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_328
+[2021.12.02-02.06.52:019][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:019][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_329
+[2021.12.02-02.06.52:019][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:019][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_330
+[2021.12.02-02.06.52:019][354]LogLinker: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to load '/Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I': Can't find file.
+[2021.12.02-02.06.52:020][354]LoadErrors: Failed to load /Game/PN_GrassLibrary/Textures/grassTextures/MasterTextures/springGrass_Albedo_8k_I.springGrass_Albedo_8k_I Referenced by LandscapeMaterialInstanceConstant_331
+[2021.12.02-02.06.52:025][354]LogMaterial: Display: Missing cached shadermap for M-Earth in PCD3D_SM5, Default, SM5 (DDC key hash: 493EB6F389F75A82B6B02CA9C2B1C744B438DED8), compiling. 
+[2021.12.02-02.06.52:041][354]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2021.12.02-02.06.52:043][354]LogMaterial: Display: Missing cached shadermap for M-Cloud in PCD3D_SM5, Default, SM5 (DDC key hash: B3DED8E42C6E87007A26E5C5FE308052FB9CEFCB), compiling. 
+[2021.12.02-02.06.52:136][354]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2021.12.02-02.06.52:136][354]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2021.12.02-02.06.52:136][354]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2021.12.02-02.06.52:136][354]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.12.02-02.06.52:136][354]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Low' priority
+[2021.12.02-02.06.52:136][354]LogShaderCompilers: Display: Submitted 34 shader compile jobs with 'Low' priority
+[2021.12.02-02.06.52:139][354]LogMaterial: Display: Missing cached shadermap for M_Landscape in PCD3D_SM5, Default, SM5 (DDC key hash: D6917EA83F3713DBF690F7321C554E7922900D6D), compiling. 
+[2021.12.02-02.06.52:220][354]LogShaderCompilers: Display: Submitted 38 shader compile jobs with 'Low' priority
+[2021.12.02-02.06.52:224][354]LogMaterial: Display: Missing cached shadermap for pr_background_mountain_c_M_summer in PCD3D_SM5, Default, SM5 (DDC key hash: 29070296FABED6F65F0C4E9EA9A2A9F44104A519), compiling. 
+[2021.12.02-02.06.52:287][354]LogShaderCompilers: Display: Submitted 51 shader compile jobs with 'Low' priority
+[2021.12.02-02.06.52:364][354]LogMaterial: Display: Missing cached shadermap for pr_background_mountain_e_M_summer in PCD3D_SM5, Default, SM5 (DDC key hash: 2CA1FAD2B795B8577BEAB0F087B97706FDC25B38), compiling. 
+[2021.12.02-02.06.52:428][354]LogShaderCompilers: Display: Submitted 51 shader compile jobs with 'Low' priority
+[2021.12.02-02.06.52:438][354]LogMaterial: Display: Missing cached shadermap for pr_background_mountain_d_M_summer in PCD3D_SM5, Default, SM5 (DDC key hash: 88276ACEF1A22DDB0896F1DDDA59FADB93DFBFE1), compiling. 
+[2021.12.02-02.06.52:500][354]LogShaderCompilers: Display: Submitted 51 shader compile jobs with 'Low' priority
+[2021.12.02-02.06.52:557][354]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_262 in PCD3D_SM5, Default, SM5 (DDC key hash: A4B8446E4BC8D9061BD391BF8074F1BA08F53E11), compiling. 
+[2021.12.02-02.06.52:559][354]LogMaterial: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.02-02.06.52:559][354]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.02-02.06.52:559][354]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.12.02-02.06.52:559][354]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.12.02-02.06.52:562][354]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_264 in PCD3D_SM5, Default, SM5 (DDC key hash: A4B8446E4BC8D9061BD391BF8074F1BA08F53E11), compiling. 
+[2021.12.02-02.06.52:564][354]LogMaterial: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.02-02.06.52:564][354]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.02-02.06.52:564][354]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.12.02-02.06.52:564][354]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.12.02-02.06.52:570][354]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_328 in PCD3D_SM5, Default, SM5 (DDC key hash: D854F4A25D0201E62EA4A7EAFACA40F53E1E937D), compiling. 
+[2021.12.02-02.06.52:574][354]LogMaterial: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.02-02.06.52:574][354]LogMaterial: Display: 	Function MF_Grass: (Node TextureSample) Texture Sample> Missing input texture
+[2021.12.02-02.06.52:574][354]LogMaterial: Display: 	Function MF_Grass: (Node MakeMaterialAttributes) Error on property Normal
+[2021.12.02-02.06.52:574][354]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.02-02.06.52:574][354]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.12.02-02.06.52:574][354]LogMaterial: Display: 	Function MF_Grass: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.12.02-02.06.52:574][354]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.12.02-02.06.52:574][354]LogMaterial: Display: 	Function MF_Grass: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.12.02-02.06.52:577][354]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_330 in PCD3D_SM5, Default, SM5 (DDC key hash: D854F4A25D0201E62EA4A7EAFACA40F53E1E937D), compiling. 
+[2021.12.02-02.06.52:582][354]LogMaterial: Warning: [AssetLog] C:\Users\matth\Documents\Unreal Projects\mainmenu\Content\Space.umap: Failed to compile Material Instance with Base M_Landscape for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.02-02.06.52:582][354]LogMaterial: Display: 	Function MF_Grass: (Node TextureSample) Texture Sample> Missing input texture
+[2021.12.02-02.06.52:582][354]LogMaterial: Display: 	Function MF_Grass: (Node MakeMaterialAttributes) Error on property Normal
+[2021.12.02-02.06.52:582][354]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.12.02-02.06.52:582][354]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property Normal
+[2021.12.02-02.06.52:582][354]LogMaterial: Display: 	Function MF_Grass: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.12.02-02.06.52:582][354]LogMaterial: Display: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2021.12.02-02.06.52:582][354]LogMaterial: Display: 	Function MF_Grass: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.12.02-02.06.52:598][354]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Space.Space
+[2021.12.02-02.06.52:598][354]Cmd: MAP LOAD FILE="../../../../../../Users/matth/Documents/Unreal Projects/mainmenu/Content/Space.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.12.02-02.06.52:598][354]LightingResults: New page: Lighting Build
+[2021.12.02-02.06.52:599][354]LoadErrors: New page: Loading map: Space.umap
+[2021.12.02-02.06.52:604][354]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-02.06.52:604][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-02.06.52:604][354]MapCheck: New page: Map Check
+[2021.12.02-02.06.52:604][354]LightingResults: New page: Lighting Build
+[2021.12.02-02.06.52:615][354]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.02-02.06.52:621][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.12.02-02.06.52:622][354]LogAudio: Display: Audio Device (ID: 1) registered with world 'Space'.
+[2021.12.02-02.06.52:624][354]LogPhysics: Warning: ForeachShape(Trimesh): ScaledElem[0] invalid
+[2021.12.02-02.06.52:625][354]LogPhysics: Warning: ForeachShape(Trimesh): ScaledElem[0] invalid
+[2021.12.02-02.06.52:670][354]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.12.02-02.06.52:670][354]LogAIModule: Creating AISystem for world Space
+[2021.12.02-02.06.52:687][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.12.02-02.06.52:692][354]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.12.02-02.06.52:692][354]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.406ms to complete.
+[2021.12.02-02.06.52:692][354]LogFileHelpers: Loading map 'Space' took 0.094
+[2021.12.02-02.06.53:293][396]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 25
+[2021.12.02-02.06.53:293][396]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.02-02.06.53:297][396]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.02-02.06.53:297][396]LogShaderCompilers: Display: Total job queries 266, among them cache hits 0 (0.00%)
+[2021.12.02-02.06.53:297][396]LogShaderCompilers: Display: Tracking 26 distinct input hashes that result in 22 distinct outputs (84.62%)
+[2021.12.02-02.06.53:297][396]LogShaderCompilers: Display: RAM used: 0.12 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.01%
+[2021.12.02-02.06.53:297][396]LogShaderCompilers: Display: ================================================
+[2021.12.02-02.06.55:141][552]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2021.12.02-02.06.55:141][552]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.02-02.06.55:638][602]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2021.12.02-02.06.55:639][602]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.02-02.06.56:141][652]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2021.12.02-02.06.56:141][652]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.02-02.06.56:311][668]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.12.02-02.06.56:311][668]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.02-02.06.57:298][764]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.12.02-02.06.57:298][764]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.02-02.06.57:378][772]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.12.02-02.06.57:378][772]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.02-02.06.57:443][775]LogEditorViewport: Clicking Background
+[2021.12.02-02.06.57:728][804]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.12.02-02.06.57:728][804]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.02-02.06.58:658][904]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 162
+[2021.12.02-02.06.58:658][904]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.02-02.06.58:744][913]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 152
+[2021.12.02-02.06.58:744][913]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.02-02.06.58:898][925]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 142
+[2021.12.02-02.06.58:898][925]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.02-02.06.58:942][928]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 132
+[2021.12.02-02.06.58:942][928]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.02-02.06.59:097][936]LogSlate: Took 0.009520 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.12.02-02.07.04:746][168]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 122
+[2021.12.02-02.07.04:746][168]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.02-02.07.05:157][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Earth_clouds)
+[2021.12.02-02.07.05:444][184]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 112
+[2021.12.02-02.07.05:444][184]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.02-02.07.05:448][184]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 102
+[2021.12.02-02.07.05:448][184]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.02-02.07.05:792][194]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 92
+[2021.12.02-02.07.05:792][194]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.02-02.07.06:214][207]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.02-02.07.06:221][207]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.02-02.07.06:221][207]PIE: New page: PIE session: Space (Dec 1, 2021, 2:07:06 PM)
+[2021.12.02-02.07.06:223][207]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.12.02-02.07.06:225][207]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.12.02-02.07.06:226][207]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Space
+[2021.12.02-02.07.06:297][207]LogPlayLevel: PIE: StaticDuplicateObject took: (0.071570s)
+[2021.12.02-02.07.06:299][207]LogAIModule: Creating AISystem for world Space
+[2021.12.02-02.07.06:301][207]LogPlayLevel: PIE: World Init took: (0.003568s)
+[2021.12.02-02.07.06:301][207]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Space.Space to /Game/UEDPIE_0_Space.Space (0.075399s)
+[2021.12.02-02.07.06:325][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.12.02-02.07.06:327][207]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.12.02-02.07.06:327][207]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.02-02.07.06:327][207]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.02-02.07.06:327][207]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.02-02.07.06:327][207]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.02-02.07.06:327][207]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.02-02.07.06:327][207]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.02-02.07.06:327][207]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.02-02.07.06:328][207]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.02-02.07.06:328][207]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.12.02-02.07.06:328][207]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.12.02-02.07.06:328][207]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.12.02-02.07.06:328][207]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.02-02.07.06:334][207]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.02-02.07.06:334][207]LogAudioMixer: Display: 1: FrontRight
+[2021.12.02-02.07.06:349][207]LogAudioMixer: Display: Using Audio Device Speakers (4- Logitech G933 Gaming Wireless Headset)
+[2021.12.02-02.07.06:349][207]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.02-02.07.06:349][207]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.02-02.07.06:349][207]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.02-02.07.06:350][207]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.02-02.07.06:350][207]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.12.02-02.07.06:350][207]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.12.02-02.07.06:352][207]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.12.02-02.07.06:352][207]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.12.02-02.07.06:352][207]LogInit: FAudioDevice initialized.
+[2021.12.02-02.07.06:352][207]LogAudio: Display: Audio Device (ID: 2) registered with world 'Space'.
+[2021.12.02-02.07.06:366][207]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.02-02.07.06:367][207]LogPhysics: Warning: ForeachShape(Trimesh): ScaledElem[0] invalid
+[2021.12.02-02.07.06:368][207]LogPhysics: Warning: ForeachShape(Trimesh): ScaledElem[0] invalid
+[2021.12.02-02.07.06:372][207]LogWorld: Bringing World /Game/UEDPIE_0_Space.Space up for play (max tick rate 0) at 2021.12.01-20.07.06
+[2021.12.02-02.07.06:376][207]LogWorld: Bringing up level for play took: 0.008817
+[2021.12.02-02.07.06:376][207]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.12.02-02.07.06:381][207]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.12.02-02.07.06:386][207]PIE: Server logged in
+[2021.12.02-02.07.06:389][207]PIE: Play in editor total start time 0.169 seconds.
+[2021.12.02-02.07.06:392][207]LogActor: Warning: ThirdPersonCharacter_C_0 is outside the world bounds!
+[2021.12.02-02.07.10:154][268]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 82
+[2021.12.02-02.07.10:154][268]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.02-02.07.10:901][282]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 72
+[2021.12.02-02.07.10:901][282]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.02-02.07.11:613][300]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 62
+[2021.12.02-02.07.11:613][300]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.02-02.07.12:988][323]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 52
+[2021.12.02-02.07.12:988][323]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.02-02.07.16:237][405]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 42
+[2021.12.02-02.07.16:237][405]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.12.02-02.07.16:703][408]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2021.12.02-02.07.16:703][408]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2021.12.02-02.07.18:118][451]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2021.12.02-02.07.18:118][451]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.12.02-02.07.19:532][495]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.12.02-02.07.19:532][495]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2021.12.02-02.07.20:952][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-02.07.20:953][551]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Space
+[2021.12.02-02.07.20:953][551]LogWorld: UWorld::CleanupWorld for Space, bSessionEnded=true, bCleanupResources=true
+[2021.12.02-02.07.20:954][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-02.07.20:968][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.02-02.07.20:997][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.02-02.07.21:007][551]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.12.02-02.07.21:007][551]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.02-02.07.21:009][551]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.02-02.07.21:012][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.02-02.07.21:016][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.12.02-02.07.21:103][552]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.12.02-02.07.21:535][574]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2021.12.02-02.07.21:535][574]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.12.02-02.07.21:624][578]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2021.12.02-02.07.21:624][578]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.12.02-02.07.22:020][598]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.12.02-02.07.22:020][598]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.12.02-02.07.22:655][639]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.12.02-02.07.22:655][639]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.12.02-02.07.23:371][687]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.12.02-02.07.23:371][687]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.12.02-02.07.23:606][702]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.12.02-02.07.23:606][702]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.12.02-02.07.23:711][707]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2021.12.02-02.07.23:711][707]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.12.02-02.07.23:941][719]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2021.12.02-02.07.23:941][719]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2021.12.02-02.07.24:076][725]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2021.12.02-02.07.24:076][725]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2021.12.02-02.07.24:630][754]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2021.12.02-02.07.24:630][754]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2021.12.02-02.07.26:750][927]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2021.12.02-02.07.26:750][927]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2021.12.02-02.07.27:336][977]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.12.02-02.07.27:336][977]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.12.02-02.07.27:846][ 20]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.12.02-02.07.27:846][ 20]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.12.02-02.07.28:031][ 35]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.12.02-02.07.28:032][ 35]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.12.02-02.07.28:162][ 46]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.12.02-02.07.28:162][ 46]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.12.02-02.07.28:523][ 76]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.12.02-02.07.28:523][ 76]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
